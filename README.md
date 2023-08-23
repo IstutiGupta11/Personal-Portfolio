@@ -25,7 +25,6 @@ These skills collectively represent my technical expertise and dedication to con
 ## My Experience
 
 Currently doing internship in Frontend and learning major Tech Stacks i.e MERN Stack.
-*Feel free to add more experiences as needed.*
 
 ## Projects Highlights
 
